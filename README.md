@@ -26,3 +26,6 @@ git diff
 
 git show 9bebaf0af662be13b2c1a16cb6615c8e92295f4e
 
+git branch develop
+
+git checkout develop
