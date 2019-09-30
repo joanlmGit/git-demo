@@ -31,3 +31,9 @@ git branch develop
 git checkout develop
 
 git branch
+
+git merge feature/style
+
+git checkout ec3e168a748a31082752639cd9bd7a2959c6e6c
+
+git checkout develop
