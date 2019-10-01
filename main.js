@@ -1,7 +1,7 @@
 const boton = document.getElementById("hello");
 
 function botonPush() {
-    alert('Hola Mundo!')
+    alert('Ciao, mondo!')
 }
 boton.addEventListener('click', botonPush)
 
